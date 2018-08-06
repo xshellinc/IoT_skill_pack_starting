@@ -1,0 +1,13 @@
+{
+  "name": "isaax-ci-script",
+  "version": "0.0.0",
+  "description": "isaax-agent test script",
+  "main": "main.py",
+  "author": "nc30",
+  "license": "GPL",
+  "language":"python",
+  "scripts": {
+     "start": "python -u daemon.py -s -G"
+    },
+   "dependency": null
+}
