@@ -7,7 +7,7 @@
   "license": "GPL",
   "language":"python",
   "scripts": {
-     "start": "python -u daemon.py -s -G"
+     "start": "python3 -u IoT.py"
     },
    "dependency": null
 }
